@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Vanshika",
+    "email": "vanshika@gmail.com",
+    "age": 20,
+    "course": "BBA"
+  },
+  {
+    "id": 2,
+    "name": "Krishna",
+    "email": "krishna@gmail.com",
+    "age": 21,
+    "course": "Software Engineering"
+  },
+  {
+    "id": 3,
+    "name": "Dwaipayan",
+    "email": "dwaipayan@gmail.com",
+    "age": 29,
+    "course": "Robotics"
+  },
+  {
+    "id": 4,
+    "name": ")rashant",
+    "email": "prashant@gmail.com",
+    "age": 18,
+    "course": "Software Engineering"
+  },
+  {
+    "id": 5,
+    "name": "Rituraj",
+    "email": "rituraj@gmail.com",
+    "age": 20,
+    "course": "Hardware Engineering"
+  },
+  {
+    "id": 6,
+    "name": "Ayush",
+    "email": "ayush@gmail.com",
+    "age": 19,
+    "course": "Software Engineering"
+  },
+  {
+    "id": 7,
+    "name": "Hardik",
+    "email": "hardik@gmail.com",
+    "age": 20,
+    "course": "Computer Science Engineering"
+  }
+]
